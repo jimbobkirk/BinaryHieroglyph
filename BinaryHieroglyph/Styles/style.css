@@ -1,0 +1,34 @@
+﻿body {
+}
+span {
+    font-size: 10px;
+}
+.StyleRightOn {
+    border: solid;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+}
+
+.StyleLeftOn {
+    border: solid;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+    display: inline-block;
+}
+.StyleRightOff {
+    border: solid;
+    border-left-color: black;
+    border-right-color: white;
+    border-bottom-color: black;
+    display: inline-block;
+}
+
+.StyleLeftOff {
+    border: solid;
+    border-left-color: white;
+    border-right-color: black;
+    border-bottom-color: black;
+    display: inline-block;
+}
